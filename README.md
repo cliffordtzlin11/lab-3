@@ -1,2 +1,2 @@
 # lab-3
-https://github.com/cliffordtzlin11/lab-3
+https://cliffordtzlin11.github.io/lab-3/
